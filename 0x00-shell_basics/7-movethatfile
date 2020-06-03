@@ -1,0 +1,2 @@
+#!/bin/bash
+MV $Home/tmp/betty $Home/tmp/holberton/

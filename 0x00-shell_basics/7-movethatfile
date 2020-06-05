@@ -1,2 +1,2 @@
 #!/bin/bash
-MV $Home/tmp/betty $Home/tmp/holberton/
+mv /tmp/betty /tmp/holberton/

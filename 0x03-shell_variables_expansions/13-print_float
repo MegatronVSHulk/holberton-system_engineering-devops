@@ -1,2 +1,2 @@
 #!/bin/bash
-printf %f $NUM | head -c 5
+printf %.2f $NUM
